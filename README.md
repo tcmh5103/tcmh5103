@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tcmh5103
+- 👋 Hi, I’m Thomas Chan 
 - 👀 I’m interested in Networking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cisco Networking
